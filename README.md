@@ -1,3 +1,4 @@
-# Classic Pong game in Matlab
+##### September 13, 2017.
+# Pong
 
-13 September 2017.
+Created Pong in Matlab for an assignment at the University of Twente.
